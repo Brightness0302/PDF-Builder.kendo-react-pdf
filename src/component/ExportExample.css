@@ -1,0 +1,154 @@
+.app-content {
+  text-align: center;
+  background-color: white;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color:  #282c34;
+}
+
+.page-container {
+  margin: 1em;
+}
+.neat-style {
+  color: rgb(255, 142, 166);
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+.button-area button {
+  margin-right: 10px;
+}
+
+.k-pdf-export {
+  background-color: white;
+}
+
+.d-inlineblock {
+  display: inline-block;
+}
+
+.header-log-icon {
+  width: 40px;
+  margin-right: 3px;
+}
+
+.header-log-toptext {
+  font-size: 16px;
+  margin-bottom: 0px;
+  text-align: center;
+}
+
+.header-log-bottomtext {
+  font-size: 10px;
+  margin: 0px;
+}
+
+.header{
+  text-align: left;
+  width: 100%;
+}
+
+.underline {
+  text-decoration: underline;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.text-left {
+  text-align: left;
+}
+
+.text-right {
+  text-align: right;
+}
+
+.content-header {
+  font-size: 16px;
+}
+
+.text-8 {
+  font-size: 8px;
+}
+
+.text-12 {
+  font-size: 12px;
+}
+
+.table-value {
+  color: black;
+}
+
+.table-key {
+  color: black;
+}
+
+td {
+  border: 1px solid black;
+}
+
+.margin-l-3 {
+  margin-left: 3px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+th {
+  border: 1px solid black;
+}
+
+table {
+  width: 100%;
+  text-align: left;
+}
+
+.text-justify {
+  text-align: justify !important;
+  overflow-wrap: break-word;
+}
+
+.overflow-break {
+  margin-right: 8px;
+  overflow-wrap: break-word;
+}
+
+.overflow-break1 {
+  margin-right: 15px;
+  overflow-wrap: break-word;
+}
+
+.footer-log-icon {
+  width: 70px;
+  margin-left: 10px;
+}
+
+.footer-logo {
+  text-align: left;
+}
+
+.footer-logo-text {
+  width: calc(100% - 80px);
+}
+
+.footer {
+  margin:10px;
+}
+
+.margin-tb-0 {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.text-20 {
+  font-size: 20px;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
